@@ -3,8 +3,9 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPR (Conclusão em 2026).  
 Em formação para atuar como **Desenvolvedor Full Stack**, com foco em aplicações web, APIs e mobile.
 
-- 🔭 Atualmente explorando o ecossistema **Flutter** para desenvolvimento multiplataforma  
+- 🔭 Atualmente explorando o ecossistema **Flutter** para desenvolvimento multiplataforma
 - ⚙️ Utilizando **Supabase** como backend service (PostgreSQL, Auth e Storage)  
+- 🌐 Experiência com **IoT**, integração de dispositivos embarcados (Arduino) com **cloud (Adafruit IO)** e dashboards web
 - 🎓 Consulte minha organização **giovaimeifpr** para projetos acadêmicos e laboratoriais  
 
 ---
@@ -15,6 +16,8 @@ Em formação para atuar como **Desenvolvedor Full Stack**, com foco em aplicaç
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![NiceGUI](https://img.shields.io/badge/NiceGUI-000000?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -38,10 +41,12 @@ Em formação para atuar como **Desenvolvedor Full Stack**, com foco em aplicaç
 ---
 
 ### 🗄️ Bancos de Dados & Backend Services
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Adafruit IO](https://img.shields.io/badge/Adafruit_IO-0D47A1?style=for-the-badge&logo=adafruit&logoColor=white)
 
 ---
 
@@ -52,19 +57,15 @@ Em formação para atuar como **Desenvolvedor Full Stack**, com foco em aplicaç
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
+### 🌐 IoT, Embedded & Hardware
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+
+---
 
 ## 📚 Portfólio Acadêmico (IFPR)
 Centralizo meus laboratórios, desafios de algoritmos e projetos acadêmicos aqui:  
 👉 **https://github.com/giovaimeifpr**
-
----
-
-## 📊 Estatísticas do Desenvolvedor
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api?username=giovaime&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=giovaime&layout=compact&theme=radical"/>
-</p>
 
 ---
 
