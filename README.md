@@ -73,3 +73,5 @@ Centralizo meus laboratórios, desafios de algoritmos e projetos acadêmicos aqu
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovaime-orso-vieira-96a367147/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovaime@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/giovaime)
+
+<img src="https://github.com/giovaime/giovaime/blob/main/images/rodape.gif?raw=true" width="100%">
