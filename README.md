@@ -1,4 +1,4 @@
-![Bem-Vindo ao Perfil!](https://github.com/giovaime/giovaime/blog/main/images/welcome.gif?raw=true)
+![Bem-Vindo ao Perfil!](https://github.com/giovaime/giovaime/blob/main/images/welcome.gif?raw=true)
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPR (Conclusão em 2026).  
 Em formação para atuar como **Desenvolvedor Full Stack**, com foco em aplicações web, APIs e mobile.
